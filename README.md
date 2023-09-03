@@ -1,5 +1,5 @@
 # Curso-de-GIt  
-Este es un ejemplo del README.
+Este es un ejemplo del README. (make a README.com)
 
 ## Installation
 
